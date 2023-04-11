@@ -1,8 +1,7 @@
-/*--------------------- Copyright (c) 2017 -----------------------
+/*--------------------- Copyright (c) 2023 -----------------------
 ------------------------------------------------------------------
 [Master Javascript]
 
-Project: Ice-Cream - ice-cream responsive Template
 Version: 1.0.0
 -------------------------------------------------------------------*/
 (function($) {
@@ -17,7 +16,7 @@ Version: 1.0.0
       } else {
         return;
       }
-      /*-------------- ice_cream Functions Calling ---------------------------------------------------
+      /*-------------- Functions Calling ---------------------------------------------------
       ------------------------------------------------------------------------------------------------*/
       this.RTL();
       this.video_popup();
@@ -33,7 +32,7 @@ Version: 1.0.0
       this.responsive_menu();
       this.sticky_sidebar(); 
     },
-    /*-------------- ice_cream Functions definition ---------------------------------------------------
+    /*--------------  Functions definition ---------------------------------------------------
     ---------------------------------------------------------------------------------------------------*/
     RTL: function() {
       // On Right-to-left(RTL) add class 
@@ -55,7 +54,7 @@ Version: 1.0.0
 			    youtube: {
 			      index: 'www.youtube.com/',
 			      id: 'v=', 
-			      src: 'https://www.youtube.com/embed/Zy33XDwGVxc'
+			      src: 'https://www.youtube.com/watch?v=85EmaGx7ZEQ'
 			    }
 			  },
 			}

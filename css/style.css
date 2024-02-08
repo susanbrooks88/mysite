@@ -104,7 +104,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	position:relative;
 }
 .site_main_section2{
-	padding:30px 0 20px;
+	padding:10px 0 5px;
 }
 .site_heading,.site_heading_white{
 	font-size: 30px;
@@ -3752,12 +3752,12 @@ ul.social_icon > li > a i:before {
     font-size: 20px;
     margin: 0;
     padding-bottom: 15px;
-    color: #ffffff;
+    color: #3d3333;
     text-transform: capitalize;
 }
 .el_tab_content p {
     margin-bottom: 15px;
-	color: #ffffff;
+	color: #3d3333;
 }
 .el_client_div {
     display: inline-block;
@@ -3827,6 +3827,7 @@ ul.social_icon > li > a i:before {
     position: absolute;
     bottom: -50px;
     width: 100%;
+    
     text-align: center;
 }
 .el_client_slider  .owl-controls .owl-dots{}
@@ -3859,7 +3860,8 @@ ul.social_icon > li > a i:before {
     font-weight: 700;
 }
 .el_service_quote p{
-    margin-bottom: 20px;
+    margin-bottom: 12px;
+    font-size: small;
 }
 .el_service_quote .el_service_quote_form{}
 .el_service_quote .el_service_quote_form .form-group{
@@ -3904,6 +3906,7 @@ ul.social_icon > li > a i:before {
     z-index: 1;
     text-align: center;
 }
+
 .el_banner_data h3{
     margin: 0;
     color: #fff;
@@ -3912,7 +3915,7 @@ ul.social_icon > li > a i:before {
     margin-bottom: 10px;
 }
 .el_banner_data h3 span{
-	color:#fdd835;	
+	color:#FFBB62;	
 }
 .el_banner_data p{
     color: #fff;
@@ -3929,13 +3932,13 @@ ul.social_icon > li > a i:before {
 .el_mainheading h3 {
     margin: 0;
     padding-bottom: 15px;
-    color: #ffffff;
+    color: #b02b2b;
     font-weight: 700;
     font-size: 30px;
 	text-transform:capitalize;
 }
 .el_mainheading h3 span{
-	color:#f7f7f6;
+	color:#b02b2b;
 }
 .el_mainheading p{
 	margin:0px;
@@ -3985,14 +3988,14 @@ ul.social_icon > li > a i:before {
     -ms-transition: all 0.35s ease-in;
 }
 .el_services_div h3:hover a{
-	color:#fdd835;	
+	color:#FFBB62;	
 }
 .el_services_div p{
     margin-bottom: 15px;
 }
 .el_services_div a.el_readmore{
     display: inline-block;
-    color: #fdd835;
+    color: #FFBB62;
     text-transform: capitalize;
     text-decoration: none;
     font-family: "Quicksand";
@@ -4022,10 +4025,10 @@ ul.social_icon > li > a i:before {
     margin: 0;
 }
 .el_services_div:hover{
-	border-color:#fdd835;
+	border-color:#FFBB62;
 }
 .el_services_div:hover span{
-	color:#fdd835;
+	color:#FFBB62;
 }
 
 /*---footer start---*/
@@ -4043,7 +4046,7 @@ ul.social_icon > li > a i:before {
 }
 .el_contact_detail h3{
     margin: 0;
-    color: #fdd835;
+    color: #FFBB62;
     font-size: 20px;
     text-transform: capitalize;
     font-weight: 700;
@@ -4071,7 +4074,7 @@ ul.social_icon > li > a i:before {
 }
 .el_contact_detail p a:hover, .el_contact_detail p a:focus{
 	outline:none;
-	color: #fdd835;
+	color: #FFBB62;
 	text-decoration:none;
 }
 .el_footerdiv {
@@ -4131,11 +4134,11 @@ ul.social_icon > li > a i:before {
     transition: all 0.3s linear;
 }
 .el_footer_usefullink ul li a i{
-    color: #fdd835;
+    color: #FFBB62;
     margin-right: 8px;
 }
 .el_footer_usefullink ul li a:hover{
-    color: #fdd835;	
+    color: #FFBB62;	
 }
 .el_footer_newsletter .el_newsletter .el_btn {
     padding: 8px 25px;
@@ -4208,7 +4211,7 @@ ul.social_icon > li > a i:before {
     transition: all 0.3s linear;
 }
 .el_footer_recent_blog ul li .el_recent_blog_data h4 a:hover{
-    color: #fdd835;	
+    color: #FFBB62;	
 }
 .el_footer_recent_blog ul li .el_recent_blog_data p{
     margin: 0;
